@@ -1,0 +1,2 @@
+rootProject.name='Demo My Web Browser'
+include ':app'
